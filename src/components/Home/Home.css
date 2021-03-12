@@ -1,0 +1,15 @@
+.banner{
+    background-image:linear-gradient(rgb(56 55 55 / 85%),rgb(56 55 55 / 85%)), url(../../banner.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.banner h2{
+    margin-bottom: 0;
+    font-size: 40px;
+    color: #fff;
+    font-weight: bold;
+}
